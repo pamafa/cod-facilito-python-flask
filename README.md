@@ -1,2 +1,2 @@
 # cod-facilito-python-flask
-Curso de código facilito - mi primera aplicación python / flask
+Ejercicio del curso de Código Facilito - mi primera aplicación python / flask
