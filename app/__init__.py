@@ -7,8 +7,10 @@ app = Flask(__name__)
 def index():
     return render_template('index.html')
 
+
 def pagina_no_encontrada(error):
     return render_template('errores/404.html'), 404
+
 
 def inicializar_app(config):
     app.config.from_object(config)
